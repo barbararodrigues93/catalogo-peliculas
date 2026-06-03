@@ -30,3 +30,5 @@ export const peliculas = [
 export function buscarPorGenero(genero) {}
 
 export function mejorPuntuada() {}
+
+export function filtrarPorYear(desde, hasta) {}
