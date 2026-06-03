@@ -25,6 +25,12 @@ export const peliculas = [
     puntuacion: 8.5,
   },
   { titulo: "Toro Salvaje", year: 1980, genero: "Drama", puntuacion: 8.1 },
+  {
+    titulo: "Interstellar",
+    year: 2014,
+    genero: "Sci-Fi",
+    puntuacion: 8.7,
+  },
 ];
 
 export function buscarPorGenero(genero) {}
