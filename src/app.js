@@ -1,4 +1,9 @@
-import { peliculas, buscarPorGenero, mejorPuntuada } from "./peliculas.js";
+import {
+  peliculas,
+  buscarPorGenero,
+  mejorPuntuada,
+  filtrarPorYear,
+} from "./peliculas.js";
 import { fichaCorta, resumenCatalogo } from "./formato.js";
 
 export default function ejecutar(params) {
